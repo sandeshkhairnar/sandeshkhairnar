@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on: Developing scalable web applications and exploring advanced AI/ML models for real-world applications.<br>👯 I’m looking to collaborate on: Frontend and backend development projects, as well as innovative AI/ML applications.<br>🤝 I’m looking for help with: Optimizing deployment pipelines and exploring new tools for DevOps and cloud computing.<br>⚡ Fun fact: I’m a tech enthusiast who loves debugging code almost as much as exploring the latest sci-fi movies!
+🔭 **I’m currently working on**: Scalable web apps and real-world AI/ML models.  
+👯 **I’m looking to collaborate on**: Full-stack and AI/ML projects.  
+🤝 **I’m looking for help with**: Exploring new DevOps tools.  
+⚡ **Fun fact**: I love debugging code and watching sci-fi movies!  
 
 
 ## 🌐 Socials:

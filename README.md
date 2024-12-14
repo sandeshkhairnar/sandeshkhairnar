@@ -1,8 +1,13 @@
 # 💫 About Me:
-🔭 **I’m currently working on**: Scalable web apps and real-world AI/ML models.  
-👯 **I’m looking to collaborate on**: Full-stack and AI/ML projects.  
-🤝 **I’m looking for help with**: Exploring new DevOps tools.  
-⚡ **Fun fact**: I love debugging code and watching sci-fi movies!  
+🔭 **I’m currently working on**: Scalable web applications and AI/ML models for real-world challenges.  
+
+👯 **Looking to collaborate on**: Frontend, backend development, and innovative AI/ML projects. 
+
+🤝 **Need help with**: Optimizing deployment pipelines and exploring DevOps tools.  
+
+⚡ **Fun fact**: Debugging code is as exciting to me as watching sci-fi movies!  
+
+📩 **Reach me**: sandeshkhairnar123@gmail.com  
 
 
 ## 🌐 Socials:
